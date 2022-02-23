@@ -22,7 +22,7 @@ age: `int`
 
 _Response:_ 
 
-```python
+```javascript
 [
     “Str”,
     “Str”
@@ -47,7 +47,7 @@ _Request form data:_
 
 _Response:_
 
-```python
+```javascript
 {'name': name,
           'age': age,
           'salary': salary,
@@ -73,7 +73,7 @@ _Request url params:_
 
 _Response:_
 
-```python
+```javascript
 {'name': name,
           'age': age,
           'daily_food': weight * 0.012,
@@ -98,7 +98,7 @@ _Request url params:_
 
 _Response:_
 
-```python
+```javascript
 
 {'start_qa_salary': salary,
           'qa_salary_after_6_months': salary * 2,
@@ -129,7 +129,7 @@ _Request url params:_
 
 _Response:_
 
-```python
+```javascript
 
 {'name': name,
           'age': age,
@@ -161,7 +161,7 @@ _Request url params:_
 
 _Response:_ 
 
-```pythone
+```javascript
 
 {'name': name,
           'age': int(age),
@@ -186,7 +186,7 @@ ___
 
  _Response:_
 
-```python
+```javascript
 
 {'start_qa_salary': salary,
           'qa_salary_after_6_months': salary * 2,
