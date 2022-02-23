@@ -22,7 +22,7 @@ age: `int`
 
 _Response:_ 
 
-```javascript
+```java
 [
     “Str”,
     “Str”
@@ -47,7 +47,7 @@ _Request form data:_
 
 _Response:_
 
-```javascript
+```java
 {'name': name,
           'age': age,
           'salary': salary,
@@ -73,7 +73,8 @@ _Request url params:_
 
 _Response:_
 
-```javascript
+```java
+
 {'name': name,
           'age': age,
           'daily_food': weight * 0.012,
