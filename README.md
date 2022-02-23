@@ -14,13 +14,13 @@ Method: `GET`
 
 EndPoint: `/get_method`
 
-_Request url params:
+_Request url params:_
 
 name: `str`
 
 age: `int`
 
-_Response: 
+_Response:_ 
 
 ```python
 [
@@ -37,7 +37,7 @@ Method: `POST`
 
 EndPoint: `/user_info_3`
 
-_Request form data:
+_Request form data:_
 
  name: `str`
  
@@ -45,7 +45,7 @@ _Request form data:
  
  salary: `int`
 
-_Response:
+_Response:_
 
 ```python
 {'name': name,
@@ -63,7 +63,7 @@ Method: `GET`
 
 EndPoint: `/object_info_1`
 
-_Request url params: 
+_Request url params:_ 
 
  name: `str`
  
@@ -71,7 +71,7 @@ _Request url params:
  
  weight: `int`
 
-_Response:
+_Response:_
 
 ```python
 {'name': name,
@@ -88,7 +88,7 @@ Method: `GET`
 
 EndPoint: `/object_info_2`
 
-_Request url params:
+_Request url params:_
 
  name: `str`
  
@@ -96,7 +96,7 @@ _Request url params:
  
  salary: `int`
 
-_Response:
+_Response:_
 
 ```python
 
@@ -119,7 +119,7 @@ Method: `GET`
 
 EndPoint: `/object_info_3`
 
-_Request url params:
+_Request url params:_
 
  name: `str`
  
@@ -127,7 +127,7 @@ _Request url params:
  
  salary: `int`
 
-_Response: 
+_Response:_
 
 ```python
 
@@ -151,7 +151,7 @@ Method: `GET`
 
 EndPoint: `/object_info_4`
 
-_Request url params:
+_Request url params:_
 
  name: `str`
  
@@ -159,7 +159,7 @@ _Request url params:
  
  salary: `int`
 
-_Response: 
+_Response:_ 
 
 ```pythone
 
@@ -176,7 +176,7 @@ ___
  
  EndPoint: `/user_info_2`
  
- _Request form data:
+ _Request form data:_
  
  name: `str`
  
@@ -184,7 +184,7 @@ ___
  
  salary: `int`
 
- _Response: 
+ _Response:_
 
 ```python
 
